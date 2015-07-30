@@ -1,4 +1,5 @@
-rally_con
+RALLY_CON
 =========
 
-Get Days Task in Dev Rally
+##### Script for RallyDev with goal calculate task in development status and export data for spreadsheet.
+
